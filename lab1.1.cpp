@@ -55,7 +55,7 @@ std::cin >> a;
             std::cout << "x = " << x << std::endl;
         }
         else
-		{
+        {
             std::cout << "Error: a = 0" << std::endl;
         }
     }
