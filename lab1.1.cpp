@@ -54,7 +54,8 @@ std::cin >> a;
             x = (-b) / a;
             std::cout << "x = " << x << std::endl;
         }
-        else {
+        else
+		{
             std::cout << "Error: a = 0" << std::endl;
         }
     }
