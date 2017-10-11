@@ -1,7 +1,6 @@
 #include <math.h>
 #include <iostream>
 #include <stdio.h>
-#include <tchar.h>
 
 int main() {
 std::cout << "3.14" << std::endl;
